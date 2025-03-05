@@ -1,10 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm Meenaa Raviselvam!
 
 Data Analytics and Machine Learning professional with 4+ years of experience in data analysis, visualization, and machine learning. Currently pursuing a Master’s in Business Analytics and Information Systems at the University of South Florida. Passionate about leveraging data to drive business decisions and solve real-world challenges.
 
-🔍 Expertise:
+## 🔍 Expertise:
 
 Querying data using SQL and optimizing database performance.
 
@@ -14,11 +14,11 @@ Developing interactive Tableau and Power BI dashboards.
 
 Applying Machine Learning techniques to predictive analytics and classification problems.
 
-📚 Projects
+## 📚 Projects
 
-Welcome to my portfolio, where I showcase my projects
+Welcome to my portfolio, where I showcase my ([Portfolio projects](https://github.com/meenaavalu/PortfolioProject-))
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Languages: Python (Pandas, NumPy, Scikit-Learn, TensorFlow), SQL, X++
 
@@ -28,7 +28,7 @@ Visualization: Tableau, Power BI
 
 Cloud & Platforms: Microsoft Azure, AWS
 
-👋🏻 Connect with Me
+## 👋🏻 Connect with Me
 
 LinkedIn: ([linkedin.com/in/meenaa-raviselvam-78a670156](https://www.linkedin.com/in/meenaa-raviselvam-78a670156/))
 
