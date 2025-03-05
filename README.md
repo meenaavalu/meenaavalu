@@ -30,7 +30,7 @@ Cloud & Platforms: Microsoft Azure, AWS
 
 👋🏻 Connect with Me
 
-LinkedIn: (linkedin.com/in/meenaa-raviselvam-78a670156)
+LinkedIn: ([linkedin.com/in/meenaa-raviselvam-78a670156](https://www.linkedin.com/in/meenaa-raviselvam-78a670156/))
 
 🚀 Excited to explore opportunities in Data Analytics, Machine Learning, and Business Intelligence!
 
