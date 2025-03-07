@@ -16,7 +16,7 @@ Applying Machine Learning techniques to predictive analytics and classification 
 
 ## 📚 Projects
 
-Welcome to my portfolio, where I showcase my ([Portfolio projects](https://github.com/meenaavalu/PortfolioProject-))
+Welcome to my portfolio, where I showcase my **[Portfolio projects](https://github.com/meenaavalu/PortfolioProject-)**
 
 ## 🛠️ Tools & Technologies
 
